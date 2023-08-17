@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public partial struct Result
     {

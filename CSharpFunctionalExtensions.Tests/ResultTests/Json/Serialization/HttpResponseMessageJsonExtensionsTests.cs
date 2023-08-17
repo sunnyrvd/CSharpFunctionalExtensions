@@ -1,4 +1,4 @@
-﻿using CSharpFunctionalExtensions.Json.Serialization;
+﻿using Metaphor.Csharp.Extensions.Json.Serialization;
 
 using FluentAssertions;
 
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Json.Serialization
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Json.Serialization
 {
     public class HttpResponseMessageJsonExtensionsTests
     {

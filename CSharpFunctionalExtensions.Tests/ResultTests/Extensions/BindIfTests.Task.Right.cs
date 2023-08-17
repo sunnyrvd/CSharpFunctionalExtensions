@@ -2,7 +2,7 @@ using System.Threading.Tasks;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public class BindIfTests_Task_Right : BindIfTestsBase
     {

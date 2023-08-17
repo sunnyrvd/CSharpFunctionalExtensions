@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using System;
 
-namespace CSharpFunctionalExtensions.ValueTasks
+namespace Metaphor.Csharp.Extensions.ValueTasks
 {
     public static partial class AsyncResultExtensionsLeftOperand
     {

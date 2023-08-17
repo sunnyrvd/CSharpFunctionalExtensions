@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public static partial class MaybeExtensions
     {

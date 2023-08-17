@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Threading.Tasks;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.ValueTasks;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.MaybeTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.MaybeTests.Extensions
 {
     public class GetValueOrThrowTests_ValueTask : MaybeTestBase
     {

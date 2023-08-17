@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace CSharpFunctionalExtensions.Json.Serialization
+namespace Metaphor.Csharp.Extensions.Json.Serialization
 {
     internal static class DtoMessages
     {

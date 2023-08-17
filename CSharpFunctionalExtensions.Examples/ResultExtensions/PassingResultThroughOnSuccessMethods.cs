@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace CSharpFunctionalExtensions.Examples.ResultExtensions
+namespace Metaphor.Csharp.Extensions.Examples.ResultExtensions
 {
     public class PassingResultThroughOnSuccessMethods
     {

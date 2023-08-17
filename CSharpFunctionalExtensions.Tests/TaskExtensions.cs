@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions.Tests
+namespace Metaphor.Csharp.Extensions.Tests
 {
     internal static class TaskExtensions
     {

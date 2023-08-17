@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public partial struct Result
     {

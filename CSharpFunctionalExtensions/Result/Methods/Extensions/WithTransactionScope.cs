@@ -3,7 +3,7 @@ using System;
 using System.Threading.Tasks;
 using System.Transactions;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public static partial class ResultExtensions
     {
@@ -48,7 +48,7 @@ namespace CSharpFunctionalExtensions
 }
 
 #if NET5_0_OR_GREATER
-namespace CSharpFunctionalExtensions.ValueTasks
+namespace Metaphor.Csharp.Extensions.ValueTasks
 {
     public static partial class ResultExtensions
     {

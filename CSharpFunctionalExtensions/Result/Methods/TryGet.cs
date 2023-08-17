@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Diagnostics.CodeAnalysis;
 #endif
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     partial struct Result
     {

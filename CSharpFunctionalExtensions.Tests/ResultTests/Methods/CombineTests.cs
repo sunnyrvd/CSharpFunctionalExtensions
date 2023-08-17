@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests
 {
     [Collection(NonParallelTestCollectionDefinition.Name)]
     public class CombineTests : TestBase

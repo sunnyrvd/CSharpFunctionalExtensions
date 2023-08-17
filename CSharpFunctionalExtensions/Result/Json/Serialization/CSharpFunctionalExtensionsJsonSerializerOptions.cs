@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json;
 
-namespace CSharpFunctionalExtensions.Json.Serialization
+namespace Metaphor.Csharp.Extensions.Json.Serialization
 {
     public static class CSharpFunctionalExtensionsJsonSerializerOptions
     {

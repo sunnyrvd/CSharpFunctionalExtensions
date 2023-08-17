@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     [Serializable]
     public abstract class ValueObject : IComparable, IComparable<ValueObject>

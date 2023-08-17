@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions.Examples.ResultExtensions
+namespace Metaphor.Csharp.Extensions.Examples.ResultExtensions
 {
     public class TapExamples
     {

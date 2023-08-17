@@ -1,9 +1,9 @@
-﻿using CSharpFunctionalExtensions.Tests.MaybeTests.Extensions;
+﻿using Metaphor.Csharp.Extensions.Tests.MaybeTests.Extensions;
 using FluentAssertions;
 using System;
 using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public class MapTryTestsBase : MapTestsBase
     {        

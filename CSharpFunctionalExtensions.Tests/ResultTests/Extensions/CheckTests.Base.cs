@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public abstract class CheckTestsBase : TestBase
     {

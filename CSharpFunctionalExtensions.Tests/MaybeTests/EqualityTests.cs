@@ -5,7 +5,7 @@ using FluentAssertions;
 using Xunit;
 
 
-namespace CSharpFunctionalExtensions.Tests.MaybeTests
+namespace Metaphor.Csharp.Extensions.Tests.MaybeTests
 {
     public class EqualityTests
     {

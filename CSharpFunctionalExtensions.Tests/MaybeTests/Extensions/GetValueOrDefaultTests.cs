@@ -1,8 +1,8 @@
-﻿using CSharpFunctionalExtensions.Tests.ResultTests;
+﻿using Metaphor.Csharp.Extensions.Tests.ResultTests;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.MaybeTests.Extensions;
+namespace Metaphor.Csharp.Extensions.Tests.MaybeTests.Extensions;
 
 public class GetValueOrDefaultTests : TestBase
 {

@@ -1,8 +1,8 @@
-﻿using CSharpFunctionalExtensions.ValueTasks;
+﻿using Metaphor.Csharp.Extensions.ValueTasks;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public class BindTryTests_ValueTask_Left : BindTryTestsBase
     {

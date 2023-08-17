@@ -2,7 +2,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public static partial class ResultExtensions
     {

@@ -1,11 +1,11 @@
 ﻿#nullable enable
 
 using System.Threading.Tasks;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.ValueTasks;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public class EnsureNotNullTests_ValueTask_Right : EnsureNotNullTests_Base
     {

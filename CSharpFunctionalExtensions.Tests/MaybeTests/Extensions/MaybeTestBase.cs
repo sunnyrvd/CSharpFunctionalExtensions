@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Threading.Tasks;
-using CSharpFunctionalExtensions.Tests.ResultTests;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.Tests.ResultTests;
+using Metaphor.Csharp.Extensions.ValueTasks;
 using FluentAssertions;
 
-namespace CSharpFunctionalExtensions.Tests.MaybeTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.MaybeTests.Extensions
 {
     public class MaybeTestBase : TestBase
     {

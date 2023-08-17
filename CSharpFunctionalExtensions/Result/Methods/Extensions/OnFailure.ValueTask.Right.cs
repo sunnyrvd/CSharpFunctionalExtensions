@@ -3,7 +3,7 @@ using System;
 using System.ComponentModel;
 using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions.ValueTasks
+namespace Metaphor.Csharp.Extensions.ValueTasks
 {
     public static partial class ResultExtensions
     {

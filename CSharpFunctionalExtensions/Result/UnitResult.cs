@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Runtime.Serialization;
-using CSharpFunctionalExtensions.Internal;
+using Metaphor.Csharp.Extensions.Internal;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     /// <summary>
     ///     Represents the result of an operation that has no return value on success, or an error on failure.

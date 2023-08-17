@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests
 {
     public class ImplicitConversionTests
     {
@@ -19,12 +19,34 @@ namespace CSharpFunctionalExtensions.Tests.ResultTests
         [Fact]
         public void Implicit_conversion_T_is_converted_to_Success_result_of_T()
         {
-            string value = "result";
+            int value = 1;
 
-            Result<string> result = value;
-
+            Result<int> result = value;
+        
             result.IsSuccess.Should().BeTrue();
             result.Value.Should().Be(value);
+        }
+
+        [Fact]
+        public void Explicit_conversion_String_is_converted_to_Success_result_of_Success()
+        {
+            string value = "result";
+
+            Result<string> result = Result.Success(value);
+        
+            result.IsSuccess.Should().BeTrue();
+            result.Value.Should().Be(value);
+        }
+        [Fact]
+        public void Implicit_conversion_T_is_converted_to_Failed_result_on_string()
+        {
+            string value = "Failed";
+
+            Result<int> result = value;
+
+            result.IsSuccess.Should().BeFalse();
+            result.IsFailure.Should().BeTrue();
+            result.Error.Should().Be(value);
         }
 
         [Fact]

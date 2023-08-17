@@ -1,8 +1,8 @@
-﻿using CSharpFunctionalExtensions.Internal;
+﻿using Metaphor.Csharp.Extensions.Internal;
 using System;
 using System.Runtime.Serialization;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     [Serializable]
     public readonly partial struct Result<T> : IResult<T>, ISerializable
@@ -72,5 +72,7 @@ namespace CSharpFunctionalExtensions
             else
                 return UnitResult.Failure(result.Error);
         }
+        public static implicit operator Result<T>(string value)
+            => Result.Failure<T>(value);
     }
 }

@@ -7,7 +7,7 @@ using System.Runtime.CompilerServices;
 using System.Diagnostics.CodeAnalysis;
 #endif
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     [Serializable]
     [System.Runtime.InteropServices.StructLayout(System.Runtime.InteropServices.LayoutKind.Sequential)]

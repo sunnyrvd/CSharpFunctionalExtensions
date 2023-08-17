@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using System;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Methods
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Methods
 {
     public class SuccessIfTests
     {

@@ -1,7 +1,7 @@
 ﻿using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Methods.Try
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Methods.Try
 {
     public class TryTests : TryTestBase
     {

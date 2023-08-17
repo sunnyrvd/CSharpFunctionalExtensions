@@ -1,9 +1,9 @@
 using System;
 using System.Threading.Tasks;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.ValueTasks;
 using FluentAssertions;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public abstract class BindIfTestsBase : TestBase
     {

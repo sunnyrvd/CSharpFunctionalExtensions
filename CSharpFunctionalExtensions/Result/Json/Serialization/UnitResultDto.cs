@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace CSharpFunctionalExtensions.Json.Serialization
+namespace Metaphor.Csharp.Extensions.Json.Serialization
 {
     /// <summary>
     /// Alternative entry-point for <see cref="UnitResultDto{E}" /> to avoid ambiguous calls

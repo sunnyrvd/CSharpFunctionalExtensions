@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public class MaybeEqualityComparer<T> : IEqualityComparer<Maybe<T>>
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public partial struct Result
     {

@@ -1,4 +1,4 @@
-﻿namespace CSharpFunctionalExtensions
+﻿namespace Metaphor.Csharp.Extensions
 {
     internal struct SerializationValue<E>
     {

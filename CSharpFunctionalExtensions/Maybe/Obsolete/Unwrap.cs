@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 
-namespace CSharpFunctionalExtensions.Obsolete
+namespace Metaphor.Csharp.Extensions.Obsolete
 {
     public static partial class MaybeExtensions
     {

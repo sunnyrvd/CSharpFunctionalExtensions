@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests
+namespace Metaphor.Csharp.Extensions.Tests
 {
     [CollectionDefinition(Name, DisableParallelization = true)]
     public sealed class NonParallelTestCollectionDefinition

@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Methods.Try
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Methods.Try
 {
     public abstract class TryTestBaseValueTask : TryTestBaseCommon
     {

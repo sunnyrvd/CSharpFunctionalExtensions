@@ -2,7 +2,7 @@
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Methods.Try
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Methods.Try
 {
     [Collection(NonParallelTestCollectionDefinition.Name)]
     public class TryTestBaseTestsTask : TryTestBaseTask

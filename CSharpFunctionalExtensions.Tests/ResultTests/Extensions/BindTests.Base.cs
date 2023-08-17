@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
-using CSharpFunctionalExtensions.Tests.ResultTests;
+using Metaphor.Csharp.Extensions.Tests.ResultTests;
 using FluentAssertions;
 
-namespace CSharpFunctionalExtensions.Tests
+namespace Metaphor.Csharp.Extensions.Tests
 {
     public abstract class BindTestsBase : TestBase
     {

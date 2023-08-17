@@ -1,4 +1,4 @@
-﻿using CSharpFunctionalExtensions.Json.Serialization;
+﻿using Metaphor.Csharp.Extensions.Json.Serialization;
 
 using FluentAssertions;
 
@@ -8,11 +8,11 @@ using System.Net.Http.Json;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-using SerializerOptions = CSharpFunctionalExtensions.Json.Serialization.CSharpFunctionalExtensionsJsonSerializerOptions;
+using SerializerOptions = Metaphor.Csharp.Extensions.Json.Serialization.CSharpFunctionalExtensionsJsonSerializerOptions;
 
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Json.Serialization
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Json.Serialization
 {
     public class SerializationTests
     {

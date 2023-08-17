@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public static partial class MaybeExtensions
     {

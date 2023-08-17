@@ -1,7 +1,7 @@
 ﻿#nullable enable
 using System.Text.Json.Serialization;
 
-namespace CSharpFunctionalExtensions.Json.Serialization
+namespace Metaphor.Csharp.Extensions.Json.Serialization
 {
     internal partial record ResultDto
     {

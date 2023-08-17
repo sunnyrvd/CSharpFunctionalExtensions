@@ -1,5 +1,5 @@
-﻿using CSharpFunctionalExtensions;
-using CSharpFunctionalExtensions.Json.Serialization;
+﻿using Metaphor.Csharp.Extensions;
+using Metaphor.Csharp.Extensions.Json.Serialization;
 
 using System;
 using System.Text.Json;

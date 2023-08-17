@@ -3,7 +3,7 @@ using System.Linq;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.EntityTests
+namespace Metaphor.Csharp.Extensions.Tests.EntityTests
 {
     public class IComparableTests
     {

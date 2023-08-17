@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests
 {
     public abstract class TestBase
     {

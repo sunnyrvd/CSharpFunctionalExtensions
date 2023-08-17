@@ -8,7 +8,7 @@ using Task = System.Threading.Tasks.Task;
 using System.Runtime.CompilerServices;
 #endif
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     internal static class TaskExtensions
     {

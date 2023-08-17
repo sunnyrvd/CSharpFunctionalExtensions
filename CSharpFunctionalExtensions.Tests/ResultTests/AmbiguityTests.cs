@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests;
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests;
 
 public class AmbiguityTests
 {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     /// <summary>
     /// Use non-generic ValueObject whenever possible: http://bit.ly/vo-new

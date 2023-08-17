@@ -1,8 +1,8 @@
 ﻿using FluentAssertions;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.ValueTasks;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public class TapIfTests_ValueTask_Right : TapIfTestsBase
     {

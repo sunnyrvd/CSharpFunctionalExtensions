@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace CSharpFunctionalExtensions.Internal
+namespace Metaphor.Csharp.Extensions.Internal
 {
     internal static class ResultCommonLogic
     {

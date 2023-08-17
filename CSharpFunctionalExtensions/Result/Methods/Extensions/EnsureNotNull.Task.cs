@@ -9,7 +9,7 @@ using Task = System.Threading.Tasks.TaskEx;
 using Task = System.Threading.Tasks.Task;
 #endif
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public static partial class ResultExtensions
     {

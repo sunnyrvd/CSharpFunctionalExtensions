@@ -2,7 +2,7 @@
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public class TapErrorTests_Task_Left : TapErrorTestsBase
     {

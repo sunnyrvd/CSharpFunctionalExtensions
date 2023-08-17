@@ -1,5 +1,5 @@
 ﻿#if NETCOREAPP3_0_OR_GREATER
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     using System;
     using System.Threading.Tasks;

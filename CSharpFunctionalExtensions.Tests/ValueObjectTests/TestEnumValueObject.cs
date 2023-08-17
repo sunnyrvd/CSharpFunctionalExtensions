@@ -1,4 +1,4 @@
-﻿namespace CSharpFunctionalExtensions.Tests.ValueObjectTests
+﻿namespace Metaphor.Csharp.Extensions.Tests.ValueObjectTests
 {
     public sealed class TestEnumValueObject : EnumValueObject<TestEnumValueObject>
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public abstract class EnumValueObject<TEnumeration, TId> : ValueObject
         where TEnumeration : EnumValueObject<TEnumeration, TId>

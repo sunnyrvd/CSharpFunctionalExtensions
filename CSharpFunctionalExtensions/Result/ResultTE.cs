@@ -1,8 +1,8 @@
-﻿using CSharpFunctionalExtensions.Internal;
+﻿using Metaphor.Csharp.Extensions.Internal;
 using System;
 using System.Runtime.Serialization;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     [Serializable]
     public readonly partial struct Result<T, E> : IResult<T, E>, ISerializable

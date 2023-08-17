@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Threading.Tasks;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.ValueTasks;
 
-namespace CSharpFunctionalExtensions.Tests
+namespace Metaphor.Csharp.Extensions.Tests
 {
     internal static class ValueTaskExtensions
     {

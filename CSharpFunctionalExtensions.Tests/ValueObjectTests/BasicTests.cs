@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ValueObjectTests
+namespace Metaphor.Csharp.Extensions.Tests.ValueObjectTests
 {
     public class BasicTests
     {

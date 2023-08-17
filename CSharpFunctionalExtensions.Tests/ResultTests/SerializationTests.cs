@@ -2,7 +2,7 @@
 using System.Runtime.Serialization;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests
 {
     public class SerializationTests
     {

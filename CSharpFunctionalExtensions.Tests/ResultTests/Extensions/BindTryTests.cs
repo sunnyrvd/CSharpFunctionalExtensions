@@ -2,7 +2,7 @@
 using Xunit;
 using System;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public sealed class BindTryTests : BindTryTestsBase
     {

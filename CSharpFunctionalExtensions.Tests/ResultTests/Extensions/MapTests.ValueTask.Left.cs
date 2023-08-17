@@ -1,9 +1,9 @@
 ﻿using FluentAssertions;
 using System.Threading.Tasks;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.ValueTasks;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions 
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions 
 {
     public class MapTests_ValueTask_Left : MapTestsBase 
     {

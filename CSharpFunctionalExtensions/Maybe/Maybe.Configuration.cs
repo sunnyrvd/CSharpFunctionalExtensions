@@ -1,4 +1,4 @@
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
 	public readonly partial struct Maybe<T>
 	{

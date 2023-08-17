@@ -3,7 +3,7 @@ using System;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Methods
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Methods
 {
     public class TryGetTests
     {

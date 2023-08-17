@@ -1,11 +1,11 @@
 ﻿using System.Threading.Tasks;
-using CSharpFunctionalExtensions.Tests;
-using CSharpFunctionalExtensions.Tests.ResultTests.Extensions;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.Tests;
+using Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions;
+using Metaphor.Csharp.Extensions.ValueTasks;
 using FluentAssertions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public class BindTests_ValueTask_Left : BindTestsBase
     {

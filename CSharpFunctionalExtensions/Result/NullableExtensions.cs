@@ -1,7 +1,7 @@
 ﻿#if NETCOREAPP3_0_OR_GREATER
 using System.Threading.Tasks;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
 
     public static partial class NullableExtensions

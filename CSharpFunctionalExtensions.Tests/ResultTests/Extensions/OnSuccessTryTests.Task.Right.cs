@@ -1,10 +1,10 @@
 ﻿using System.Threading.Tasks;
-using CSharpFunctionalExtensions.Tests.ResultTests.Methods.Try;
+using Metaphor.Csharp.Extensions.Tests.ResultTests.Methods.Try;
 using FluentAssertions;
 using FluentAssertions.CSharpFunctionalExtensions;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.ResultTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.ResultTests.Extensions
 {
     public class OnSuccessTryTestBaseTests_Task_Right : TryTestBaseTask
     {       

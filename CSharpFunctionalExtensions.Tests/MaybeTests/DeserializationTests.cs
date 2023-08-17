@@ -5,7 +5,7 @@ using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.MaybeTests
+namespace Metaphor.Csharp.Extensions.Tests.MaybeTests
 {
     public class DeserializationTests
     {

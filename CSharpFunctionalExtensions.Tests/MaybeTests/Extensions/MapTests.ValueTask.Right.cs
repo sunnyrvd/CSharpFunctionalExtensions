@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
 using FluentAssertions;
-using CSharpFunctionalExtensions.ValueTasks;
+using Metaphor.Csharp.Extensions.ValueTasks;
 using Xunit;
 
-namespace CSharpFunctionalExtensions.Tests.MaybeTests.Extensions
+namespace Metaphor.Csharp.Extensions.Tests.MaybeTests.Extensions
 {
     public class MapTests_ValueTask_Right : MaybeTestBase
     {

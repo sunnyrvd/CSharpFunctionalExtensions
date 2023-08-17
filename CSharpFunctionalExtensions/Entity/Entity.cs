@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpFunctionalExtensions
+namespace Metaphor.Csharp.Extensions
 {
     public abstract class Entity<TId> : IComparable, IComparable<Entity<TId>>
         where TId : IComparable<TId>
